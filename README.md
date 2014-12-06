@@ -3,4 +3,4 @@ MISY430-Team13
 
 This is the exercise for Team 13 in MISY430
 
-This mobile application is intended to encourage other to think harder about drunk texting or pay for their decision to do so. It will have a time setting that is activated when you start drinking. It will also give the user the ability to flag certain contacts that you do not wish to contact while drinking. In order to text these flagged contacts, the user will have to solve a puzzle or pay money to skip the puzzle altogether.
+Our mobile application is intended to encourage others to think harder about drunk texting or pay for their decision to do so. The general idea of the app is as follows. First, the user will flag their contacts that they don’t want to be drunk texting (or a random list will be generated for them). Then, the user will start drinking (having put in a start and end time for the app). After that, a user might ask himself, “Do I want to text one of my flagged contacts?” Finally, in order to follow through with their bad decision, the user will have to solve a puzzle or they will pay to skip the puzzle.
